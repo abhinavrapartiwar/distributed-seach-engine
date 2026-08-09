@@ -4,6 +4,7 @@ secret_keys.txt
 # Ignore an entire folder (always end with a slash)
 node_modules/
 data/
+internal/analysis
 
 # Ignore all files with a specific extension
 *.log
